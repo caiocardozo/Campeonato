@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Campeonatos Java</string>
+    <!--nome do campeonato brasileiro -->
+    <string name="brasileiro__categoria">Brasileiro</string>
+    <!--nome do campeonato ingles-->
+    <string name="ingles_categoria">Ingles</string>
+    <!--nome do campeonato alemao-->
+    <string name="alemao_categoria">Alemao</string>
+    <!--nome do campeonato italiano-->
+    <string name="italiano_categoria">Italiano</string>
+    <!--nome do campeonato espanhol-->
+    <string name="espanhol_categoria">Espanhol</string>
+
+    <string name="nomeBrasileiro">Campeonato Brasileiro</string>
+    <string name="nomeIngles">Campeonato Ingles</string>
+    <string name="nomeAlemao">Campeonato Alemao</string>
+    <string name="nomeEspanhol">Campeonato Espanhol</string>
+    <string name="nomeItaliano">Campeonato Italiano</string>
+
+    <string-array name="ArrayBrasileiro">
+        <item>Santos</item>
+        <item>São Paulo</item>
+        <item>Palmeiras</item>
+        <item>Corinthians</item>
+        <item>Flamengo</item>
+        <item>Vasco</item>
+        <item>Fluminense</item>
+        <item>Botafogo</item>
+        <item>Cruzeiro</item>
+        <item>Atletico-MG</item>
+    </string-array>
+
+    <string-array name="ArrayBrasileiroDesc">
+        <item>Estadio Vila Belmiro, 2 campeonatos mundiais, 3 taças libertadores,  2 campeonatos brasileiros,  19 campeonatos paulistas</item>
+        <item>Estadio Morumbi, 3 campeonatos mundiais, 3 taças libertadores,  4 campeonatos brasileiros,  21 campeonatos paulistas</item>
+        <item>Estadio Arena Palmeiras, 1 taças libertadores,  3 campeonatos brasileiros,  21 campeonatos paulistas</item>
+        <item>Estadio Arena Corinthians, 2 campeonatos mundiais, 1 taças libertadores,  3 campeonatos brasileiros,  24 campeonatos paulistas</item>
+        <item>Estadio Maracanã, 2 campeonatos mundiais, 2 taças libertadores,  5 campeonatos brasileiros,  22 campeonatos cariocas</item>
+        <item>Estadio São Januário, 2 campeonatos mundiais, 2 taças libertadores,  5 campeonatos brasileiros,  22 campeonatos cariocas</item>
+        <item>Estadio Maracanã, 3 campeonatos brasileiros,  21 campeonatos cariocas, 1 campeonato brasileiro 3ª divisão</item>
+        <item>Estadio Nilton Santos, 2 campeonatos brasileiros,  13 campeonatos cariocas, 2 torneios rio-são paulo</item>
+        <item>Estadio Mineirão, 1 taças libertadores,  6 campeonatos brasileiros,  17 campeonatos mineiros</item>
+        <item>Estadio Horto, 3 campeonatos brasileiros,  17 campeonatos mineiros, 1 copa sulamericana</item>
+    </string-array>
+
+    <string-array name="ArrayIngles">
+        <item>Chelsea</item>
+        <item>Manchester United</item>
+        <item>Manchester City</item>
+        <item>Liverpool</item>
+        <item>Aston Vila</item>
+        <item>Tottenham</item>
+        <item>Arsenal</item>
+        <item>Waltford</item>
+        <item>Everton</item>
+        <item>West Ham</item>
+    </string-array>
+    <string-array name="ArrayInglesDesc">
+        <item>O Chelsea é a principal força do futebol alemão, nos ultimos anos vem chegando nas finais da Liga dos Campeões.</item>
+        <item>O Manchester United ja foi um time muito expressivo na Alemanha, hoje apenas figura entre os intermediarios da liga.</item>
+        <item>O Manchester City é o time com a torcida mais empolgante da Alemanha, mas o time ainda nao consegue fazer frente ao seu principal rival.</item>
+        <item>O Liverpool vem sendo um time intermediario na Alemanha, nao tem conseguido fazer grandes campeonatos.</item>
+        <item>O Aston Vila vem crescendo nas ultimas 2 temporadas, mas ainda nao tem condiçoes de brigar por uma champions.</item>
+        <item>O Tottenham é apenas um time modesto da Burdes liga, rewvela alguns jogadores para os grandes.</item>
+        <item>Arsenal tem brigado pela zona de rebaixamento, nao consegue fazer grandes campeonatos e ser competitivo.</item>
+        <item>O Waltford ja foi destaque no futebol alemão, hoje em dia esta brigando para nao cair.</item>
+        <item>O Everton é a sensação do futebol alemão, vice campeão alemao da ultima temporada ja classificou na champiosn atual.</item>
+        <item>O West Ham é um time intermediário da Burdes liga, briga para classificar para a liga Europa.</item>
+    </string-array>
+    <string-array name="ArrayAlemaoDesc">
+        <item>O Bayer de munique é a principal força do futebol alemão, nos ultimos anos vem chegando nas finais da Liga dos Campeões.</item>
+        <item>O Bayer 04 Leverkusen ja foi um time muito expressivo na Alemanha, hoje apenas figura entre os intermediarios da liga.</item>
+        <item>O Borussia é o time com a torcida mais empolgante da Alemanha, mas o time ainda nao consegue fazer frente ao seu principal rival.</item>
+        <item>O Shalck vem sendo um time intermediario na Alemanha, nao tem conseguido fazer grandes campeonatos.</item>
+        <item>O Hamburgo vem crescendo nas ultimas 2 temporadas, mas ainda nao tem condiçoes de brigar por uma champions.</item>
+        <item>O Colonia é apenas um time modesto da Burdes liga, rewvela alguns jogadores para os grandes.</item>
+        <item>Maiz tem brigado pela zona de rebaixamento, nao consegue fazer grandes campeonatos e ser competitivo.</item>
+        <item>O Herta ja foi destaque no futebol alemão, hoje em dia esta brigando para nao cair.</item>
+        <item>O RB Leipzig é a sensação do futebol alemão, vice campeão alemao da ultima temporada ja classificou na champiosn atual.</item>
+        <item>O Freiburg é um time intermediário da Burdes liga, briga para classificar para a liga Europa.</item>
+    </string-array>
+    <string-array name="ArrayAlemao">
+        <item>Bayer de Munique</item>
+        <item>Bayer Leverkusem</item>
+        <item>Borussia Dortmum</item>
+        <item>Shalck e04</item>
+        <item>Hamburgo</item>
+        <item>Colonia</item>
+        <item>Mainz 05</item>
+        <item>Herta Berlin</item>
+        <item>RB Leipzig</item>
+        <item>Freiburg</item>
+    </string-array>
+
+    <string-array name="ArrayEspanhol">
+        <item>Barcelona</item>
+        <item>Real Madri</item>
+        <item>Betis</item>
+        <item>Atletico de Madri</item>
+        <item>Real Sociedad</item>
+        <item>Levante</item>
+        <item>La Corunã</item>
+        <item>Eibar</item>
+        <item>Sevilla</item>
+        <item>Atletico Bilbao</item>
+    </string-array>
+
+    <string-array name="ArrayItaliano">
+        <item>Inter de Milão</item>
+        <item>Milan</item>
+        <item>Roma</item>
+        <item>Juventus</item>
+        <item>Napoli</item>
+        <item>Fiorentina</item>
+        <item>Atalanta</item>
+        <item>Udinese</item>
+        <item>Cagliari</item>
+        <item>Verona</item>
+    </string-array>
+</resources>

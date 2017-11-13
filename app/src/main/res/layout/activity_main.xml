@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/textBrasileiro"
+        style="@style/CategoriaStyle"
+        android:text="@string/brasileiro__categoria"
+        android:background="@color/Brasileiro_Categoria"
+        />
+    <TextView
+        android:id="@+id/textIngles"
+        style="@style/CategoriaStyle"
+        android:text="@string/ingles_categoria"
+        android:background="@color/Ingles_Categoria"
+        />
+    <TextView
+        android:id="@+id/textAlemao"
+        style="@style/CategoriaStyle"
+        android:text="@string/alemao_categoria"
+        android:background="@color/Alemao_Categoria"
+        />
+    <TextView
+        android:id="@+id/textItaliano"
+        style="@style/CategoriaStyle"
+        android:text="@string/italiano_categoria"
+        android:background="@color/Italiano_Categoria"
+        />
+
+    <TextView
+        android:id="@+id/textEspanhol"
+        style="@style/CategoriaStyle"
+        android:text="@string/espanhol_categoria"
+        android:background="@color/Espanhol_Categoria"
+        />
+
+</LinearLayout>
